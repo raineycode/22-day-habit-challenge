@@ -1,1 +1,1 @@
-# 22-day-coding-challenge
+# 22-day-habit-challenge
